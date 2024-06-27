@@ -23,7 +23,7 @@ com os instrutores [Mônica Hillman](https://github.com/MonicaHillman) e [Guilhe
 ### Instalação
 1. Clone este repositório para o seu ambiente local:
 ```sh
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+git clone git@github.com:MilenaMP/numero-secreto.git
 ```
 2. Navegue até o diretório do projeto;
 ```sh
