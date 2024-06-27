@@ -50,7 +50,12 @@ Após acertar, clique no botão "Reiniciar" para começar um novo jogo.
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-bagde&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-bagde&logo=javascript&logoColor=black">
 </div>
+
+## Deploy
+No link abaixo é possível visualizar a página do Jogo Número Secreto.
+* Implantado via vercel https://numero-secreto-iota-one.vercel.app/
 <br>
+
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório, criar um branch, implementar suas melhorias e enviar um pull request.
 
 ## :trophy: Créditos
